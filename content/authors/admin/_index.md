@@ -67,7 +67,7 @@ email: "bairuqi@purdue.edu"
 highlight_name: false
 ---
 
-I am a second year Ph.D of computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Prof. David I. Inouye</a> and <a href="https://engineering.purdue.edu/~sbagchi/">Prof. Saurabh Bagchi</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> for three years after completing my bachelor's degree. My research interests include adversarial machine learning and machine learning security. 
+I am a second year Ph.D of computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Prof. David I. Inouye</a> and <a href="https://engineering.purdue.edu/~sbagchi/">Prof. Saurabh Bagchi</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> for three years after completion my bachelor's degree. My research interests include adversarial machine learning and machine learning security. 
 
 
 

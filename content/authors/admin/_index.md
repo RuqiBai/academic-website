@@ -71,4 +71,4 @@ I am a second year Ph.D of computer Engineering at Purdue University supervised 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Ruqi_Bai.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Ruqi_Bai.pdf" "newtab" >}}CV{{< /staticref >}}.

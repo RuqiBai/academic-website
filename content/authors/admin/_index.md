@@ -17,13 +17,13 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial machine learning and machine learning security. 
+bio: My research interests include adversarial machine learning, invertible machine learning and machine learning security. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adversarial Machine Learning
+- Invertible Machine Learning
+- Machine Learning Security
 
 # Education to show in About widget
 education:

@@ -93,6 +93,8 @@ phone = "765-714-5086"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+
+room = "MSEE 233D"
 address = {street = "501 Northwestern Ave", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
 
 # Geographic coordinates

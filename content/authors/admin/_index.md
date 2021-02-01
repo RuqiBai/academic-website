@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Engineering
-    institution: Stanford University
+    institution: Purdue University
     year: Present
   - course: BS in Applied Physics
     institution: Nanjing University of Posts and Telecommunications

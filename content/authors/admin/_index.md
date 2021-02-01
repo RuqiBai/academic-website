@@ -12,7 +12,6 @@ role: Ph.D Student
 organizations:
 - name: School of Electrical and Computer Engineering (ECE)
   url: https://engineering.purdue.edu/ECE/
-organizations:
 - name: Purdue University
   url: https://www.purdue.edu/
 

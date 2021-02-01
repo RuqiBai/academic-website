@@ -10,8 +10,12 @@ role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: School of Electrical and Computer Engineering (ECE)
+  url: https://engineering.purdue.edu/ECE/
+organizations:
 - name: Purdue University
   url: https://www.purdue.edu/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial machine learning and machine learning security. 

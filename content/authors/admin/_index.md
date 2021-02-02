@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Engineering
+  - course: Ph.D in Computer Engineering
     institution: Purdue University
     year: Present
-  - course: BS in Applied Physics
+  - course: B.S. in Applied Physics
     institution: Nanjing University of Posts and Telecommunications
     year: 2016
 

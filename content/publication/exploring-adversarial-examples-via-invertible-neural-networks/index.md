@@ -23,10 +23,6 @@ abstract: >
   accelerate adversarial training. Moreover, this new perspective could
   contribute to new ways of adversarial example detection.
 
-  Subjects:	Machine Learning (cs.LG); Cryptography and Security (cs.CR)
-
-  Cite as:	arXiv:2012.13111 [cs.LG]
-   	(or arXiv:2012.13111v1 [cs.LG] for this version)
 draft: false
 featured: false
 image:

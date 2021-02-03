@@ -12,5 +12,5 @@ abstract: 'Adversarial examples (AEs) are images that can mislead deep neural ne
 draft: false
 featured: false
 date: 2021-02-03T17:18:59.197Z
-url_pdf: https://arxiv.org/pdf/2012.13111.pdf
+url_pdf: 'https://arxiv.org/pdf/2012.13111.pdf'
 ---

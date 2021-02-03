@@ -1,12 +1,12 @@
 ---
 title: "Exploring Adversarial Examples via Invertible Neural Networks"
-publication_types: 3
+publication_types: "3"
 authors: [
-  - Ruqi Bai
-  - Saurabh Bagchi
-  - David I. Inouye
+  - "Ruqi Bai"
+  - "Saurabh Bagchi"
+  - "David I. Inouye"
 ]
-abstract: >
+abstract: "
   Adversarial examples (AEs) are images that can mislead deep neural network
   (DNN) classifiers via introducing slight perturbations into original images.
   This security vulnerability has led to vast research in recent years because
@@ -20,7 +20,7 @@ abstract: >
   adversarial example's latent representation. Given this new perspective, we
   propose a fast latent space adversarial example generation method that could
   accelerate adversarial training. Moreover, this new perspective could
-  contribute to new ways of adversarial example detection.
+  contribute to new ways of adversarial example detection."
 
 draft: false
 featured: false

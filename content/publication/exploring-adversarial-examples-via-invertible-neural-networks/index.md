@@ -1,7 +1,6 @@
 ---
 title: Exploring Adversarial Examples via Invertible Neural Networks
-publication_types:
-  - "3"
+publication_types: 3
 authors: [
   - Ruqi Bai
   - Saurabh Bagchi

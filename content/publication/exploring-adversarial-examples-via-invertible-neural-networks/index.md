@@ -2,7 +2,11 @@
 title: Exploring Adversarial Examples via Invertible Neural Networks
 publication_types:
   - "3"
-authors: []
+authors: [
+  - Ruqi Bai
+  - Saurabh Bagchi
+  - David I. Inouye
+]
 abstract: >
   Adversarial examples (AEs) are images that can mislead deep neural network
   (DNN) classifiers via introducing slight perturbations into original images.

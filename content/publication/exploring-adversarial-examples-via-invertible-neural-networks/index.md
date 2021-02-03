@@ -1,5 +1,5 @@
 ---
-title: Exploring Adversarial Examples via Invertible Neural Networks
+title: "Exploring Adversarial Examples via Invertible Neural Networks"
 publication_types: 3
 authors: [
   - Ruqi Bai

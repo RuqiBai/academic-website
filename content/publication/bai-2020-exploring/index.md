@@ -10,7 +10,7 @@ authors:
 - David I. Inouye
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-12-24'
 lastmod: 2021-02-03T11:55:55-05:00
 featured: false
 draft: false
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-03T16:55:55.061789Z'
-publication_types:
+publishDate: '2020-12-24T16:55:55.061789Z'
+publication_types: Arxiv
 - '0'
-abstract: ''
+url_pdf: 'https://arxiv.org/pdf/2012.13111.pdf'
+abstract: 'Adversarial examples (AEs) are images that can mislead deep neural network (DNN) classifiers via introducing slight perturbations into original images. This security vulnerability has led to vast research in recent years because it can introduce real-world threats into systems that rely on neural networks. Yet, a deep understanding of the characteristics of adversarial examples has remained elusive. We propose a new way of achieving such understanding through a recent development, namely, invertible neural models with Lipschitz continuous mapping functions from the input to the output. With the ability to invert any latent representation back to its corresponding input image, we can investigate adversarial examples at a deeper level and disentangle the adversarial example's latent representation. Given this new perspective, we propose a fast latent space adversarial example generation method that could accelerate adversarial training. Moreover, this new perspective could contribute to new ways of adversarial example detection.'
 publication: ''
 ---

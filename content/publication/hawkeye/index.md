@@ -1,5 +1,5 @@
 ---
-title: HAWKEYE: Adversarial Example Detection through Ensemble Detectors
+title: "HAWKEYE: Adversarial Example Detection through Ensemble Detectors"
 subtitle: ''
 summary: ''
 authors: 

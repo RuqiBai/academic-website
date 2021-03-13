@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D in Computer Engineering
     institution: Purdue University
-    year: Present
+    year: 2019-Present
   - course: B.S. in Applied Physics
     institution: Nanjing University of Posts and Telecommunications
     year: 2016

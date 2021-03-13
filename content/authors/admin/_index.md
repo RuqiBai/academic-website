@@ -33,7 +33,7 @@ education:
     year: 2019 - Present
   - course: B.S. in Applied Physics
     institution: Nanjing University of Posts and Telecommunications
-    year: 2016
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

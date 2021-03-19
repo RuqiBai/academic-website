@@ -7,6 +7,7 @@ authors:
   - Jinkyu Koo (NVIDIA)
   - Heron Teegarden
   - Michael Roth (Google)
+  - Kevin Chan
   - David I. Inouye
   - Saurabh Bagchi
 publication_types: '1'

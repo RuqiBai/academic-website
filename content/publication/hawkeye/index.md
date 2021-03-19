@@ -11,7 +11,7 @@ authors:
   - Kevin Chan
   - David I. Inouye
   - Saurabh Bagchi
-publication: SPIE
+publication: SPIE Defense and Commercial Sensing Symposium, 2021
 abstract: Adversarial examples (AEs) are images that can mislead deep neural
   network (DNN) classifiers via introducing slight perturbations into original
   images. Recent work has shown that detecting AEs can be more effective than

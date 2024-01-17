@@ -4,8 +4,8 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
+  - Ruqi  Bai*
   - Zeyu Zhou*
-  - Ruqi Baii*
   - Sean Kulinski*
   - Murat Kocaoglu
   - David I. Inouye

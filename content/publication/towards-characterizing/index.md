@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Ruqi  Bai*
+  - Ruqi Bai'*'
   - Zeyu Zhou*
   - Sean Kulinski*
   - Murat Kocaoglu

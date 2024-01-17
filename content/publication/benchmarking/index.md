@@ -12,5 +12,6 @@ abstract: While prior federated learning (FL) methods mainly consider client het
 draft: false
 featured: false
 summary: ""
+url_pdf: 'https://openreview.net/forum?id=wprSv7ichW'
 date: 2024-01-16T19:59:24.197Z
 ---

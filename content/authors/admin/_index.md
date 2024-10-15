@@ -31,9 +31,6 @@ education:
   - course: Ph.D in Computer Engineering
     institution: Purdue University
     year: 2019 - Present
-  - course: B.S. in Applied Physics
-    institution: Nanjing University of Posts and Telecommunications
-    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,7 +67,7 @@ email: "bairuqi@purdue.edu"
 highlight_name: false
 ---
 
-I am a fifth year Ph.D student of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> for three years after completion my bachelor's degree. My research interests include causal representation learning and robustness in machine learning.
+I am a fifth year Ph.D student of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
 
 
 

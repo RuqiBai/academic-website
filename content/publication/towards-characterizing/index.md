@@ -4,9 +4,9 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Ruqi Bai &ast;
-  - Zeyu Zhou &ast;
-  - Sean Kulinski &ast;
+  - Ruqi Bai U+FE61
+  - Zeyu Zhou U+FE61
+  - Sean Kulinski U+FE61
   - Murat Kocaoglu
   - David I. Inouye
 publication: "ICLR 2024"

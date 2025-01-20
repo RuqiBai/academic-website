@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
 title: Publications
 subtitle: ''
@@ -34,5 +34,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: custom-card
+  columns: '1'
 ---

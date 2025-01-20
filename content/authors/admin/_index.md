@@ -20,7 +20,10 @@ organizations:
 bio: My research interests include adversarial machine learning, invertible machine learning and machine learning security. 
 
 # Interests to show in About widget
-interests: ["Robust and Trustworthy AI: Causal Machine Learning; Domain Generalization; Counterfactual Fairness; Distribution Matching", "Data-Centric AI: Counterfactual Fine-tuning; Datasets and Benchmarks for ML Applications", "Deep Generative Models: VAE; Transformer"
+interests: 
+- "Robust and Trustworthy AI: Causal Machine Learning; Domain Generalization; Counterfactual Fairness; Distribution Matching"
+- "Data-Centric AI: Counterfactual Fine-tuning; Datasets and Benchmarks for ML Applications"
+- "Deep Generative Models: VAE; Transformer"
 
 # Education to show in About widget
 education:

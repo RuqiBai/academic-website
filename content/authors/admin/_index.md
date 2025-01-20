@@ -67,7 +67,7 @@ email: "bairuqi@purdue.edu"
 highlight_name: false
 ---
 
-I am a fifth year Ph.D student of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
+I am a Ph.D candidate of Elmore Family School of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
 
 
 

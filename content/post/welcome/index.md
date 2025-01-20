@@ -1,9 +1,8 @@
 ---
-title: Welcome to my personal website
-subtitle: This is the personal website of Ruqi Bai. Dont hesitate to email me if you have any comments about me or my website.
-
+title: Welcome to my website
+subtitle: 
 # Summary for listings and search engines
-summary: This is the personal website of Ruqi Bai. Dont hesitate to email me if you have any comments about me or my website.
+summary: This is the personal website of Ruqi Bai. Don't hesitate to email me if you have any comments about me or my website.
 
 # Link this post with a project
 projects: []
@@ -38,7 +37,7 @@ categories:
 - welcome
 ---
 
-This is my personal website. Please check if anything here could help you a little bit. I am glad to hear your feedback and comments. 
+This is Ruqi's personal website. Please check if anything here could help you a little bit. I am glad to hear your feedback and comments. 
 
 ## License
 

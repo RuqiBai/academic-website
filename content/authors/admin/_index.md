@@ -21,17 +21,10 @@ bio: My research interests include adversarial machine learning, invertible mach
 
 # Interests to show in About widget
 interests: 
+- Generative AI
 - Robust and Trustworthy AI
-  - Causal Machine Learning
-  - Domain Generalization
-  - Counterfactual Fairness
-  - Distribution Matching
 - Data-Centric AI
-  - Counterfactual Fine-tuning
-  - Datasets and Benchmarks for ML Applications
-- Deep Generative Models
-  - VAE
-  - Transformer
+
 
 # Education to show in About widget
 education:
@@ -75,7 +68,7 @@ email: "bairuqi@purdue.edu"
 highlight_name: false
 ---
 
-I am a Ph.D candidate of Elmore Family School of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
+I am a Ph.D candidate of Elmore Family School of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in site reliability engineer focusing on abnormality detection at <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
 
 
 

@@ -1,9 +1,9 @@
 ---
-title: Love Climbing!
-subtitle: Avid Climber
+title: Love Running!
+subtitle: Marathon Runner
 
 # Summary for listings and search engines
-summary: I am an avid climber.
+summary: I am an marathon runner.
 
 # Link this post with a project
 projects: []
@@ -29,7 +29,7 @@ featured: false
 #   preview_only: false
 
 authors:
-- Yao Ji
+- Ruqi Bai
 
 tags:
 - personal

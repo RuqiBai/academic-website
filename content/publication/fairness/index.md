@@ -1,5 +1,5 @@
 ---
-title: Benchmarking Algorithms for Federated Domain Generalization
+title: Counterfactual Fairness by Combining Factual and Counterfactual Predictions
 subtitle: ""
 publication_types:
   - "1"
@@ -15,6 +15,6 @@ abstract: In high-stakes domains such as healthcare and hiring, the role of mach
 draft: false
 featured: false
 summary: ""
-url_pdf: 'https://openreview.net/forum?id=J0Itri0UiN'
+url_pdf: 'https://openreview.net/forum?id=b7bilXYHgG'
 date: 2024-10-14T20:10:24.197Z
 ---

@@ -21,8 +21,9 @@ bio: My research interests include adversarial machine learning, invertible mach
 
 # Interests to show in About widget
 interests: 
-- Generative AI
-- Robust and Trustworthy AI
+- Generative Models
+- Robust and Trustworthy AI/ML
+- Distribution Shift
 - Data-Centric AI
 
 

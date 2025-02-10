@@ -6,7 +6,7 @@ title: Ruqi Bai
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Ph.D candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:

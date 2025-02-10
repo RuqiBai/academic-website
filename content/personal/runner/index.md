@@ -3,7 +3,7 @@ title: Love Running!
 subtitle: Marathon Runner
 
 # Summary for listings and search engines
-summary: I am an marathon runner.
+summary: I am a marathon runner.
 
 # Link this post with a project
 projects: []
@@ -38,7 +38,7 @@ categories:
 - personal
 ---
 
-I am an avid marathon runner. I have finished 4 marathon in the past few years with PB 3:29:09 at 2023 Nationwide Children’s Hospital Columbus Marathon.
+As an avid marathon runner, I have finished 4 marathon in the past few years with PB 3:29:09 at 2023 Nationwide Children’s Hospital Columbus Marathon.
 
 ## License
 

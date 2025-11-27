@@ -6,21 +6,21 @@ title: Ruqi Bai
 superuser: true
 
 # Role/position/tagline
-role: Ph.D candidate
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Electrical and Computer Engineering (ECE)
-  url: https://engineering.purdue.edu/ECE/
-- name: Purdue University
-  url: https://www.purdue.edu/
+- name: AIML @ Apple
+  url: https://www.apple.com/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial machine learning, invertible machine learning and machine learning security. 
+bio: My research interests is robust machine learning in LLM, ranking and image classification and generation.
 
 # Interests to show in About widget
 interests: 
+- RAG
+- LLM
 - Generative Models
 - Robust and Trustworthy AI/ML
 - Distribution Shift
@@ -32,7 +32,7 @@ education:
   courses:
   - course: Ph.D in Computer Engineering
     institution: Purdue University
-    year: 2019 - Present
+    year: 2019 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,9 +45,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/RuqiBai/
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/RuqiBai/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ruqi-bai/
@@ -63,14 +63,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bairuqi@purdue.edu"
+email: "rbai25@apple.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a Ph.D candidate of Elmore Family School of Electrical and Computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>. I have worked in site reliability engineer focusing on abnormality detection at <a href="https://ir.baidu.com/">Baidu</a> before my Ph.D. career. My research interests include Trustworthy and Reliable AI/ML, especially from causal perspective.
-
-
-
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Ruqi_Bai.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am a Machine Learning Engineer of AIML at Apple. I earned my Ph.D. of Machine learning at Purdue University supervised by <a href="https://www.davidinouye.com/">Dr. David I. Inouye</a>.
